@@ -1,0 +1,8 @@
+{
+  "name": "Librina",
+  "description": "Una experiencia de lectura inmersiva, offline e inteligente potenciada por IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
